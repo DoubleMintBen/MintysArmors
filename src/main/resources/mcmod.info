@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mintysarmors",
+  "name": "Craftable horse armor and more",
+  "description": "Adds the ability to craft horse armor, name tags, and saddles, as well as smelt rotten flesh to get leather.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DoubleMintBen"],
+  "credits": "EVERYBODY!!!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
